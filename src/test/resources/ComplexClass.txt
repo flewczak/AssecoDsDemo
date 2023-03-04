@@ -1,0 +1,5 @@
+field3 - fieldValue3
+field4 - fieldValue4
+simpleClass - SimpleClass
+   field1 - fieldValue1
+   field2 - fieldValue2

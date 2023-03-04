@@ -1,0 +1,11 @@
+currency - Waluta
+   code - Kod
+amount - Kwota
+contractor - Kontrahent
+   name - Nazwa
+   nip - NIP
+   address - Adres
+     city - Miasto
+     postalCode - Kod pocztowy
+     street - Ulica
+number - Numer

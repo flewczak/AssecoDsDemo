@@ -1,0 +1,11 @@
+complexClass - ComplexClass
+   field3 - fieldValue3
+   field4 - fieldValue4
+   simpleClass - SimpleClass
+     field1 - fieldValue1
+     field2 - fieldValue2
+field5 - fieldValue5
+field6 - fieldValue6
+simpleClass - SimpleClass
+   field1 - fieldValue1
+   field2 - fieldValue2
